@@ -7,6 +7,6 @@ layout: home
 
 Welcome to my page!
 
-<img src="/assets/photo2.jpg" alt="Photo" align="right" style="width: 200px;"/>
+<img src="{{site.baseurl}}/assets/photo2.jpg" alt="Photo" align="right" style="width: 200px;"/>
 
 Then a description of me here
