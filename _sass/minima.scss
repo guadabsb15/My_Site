@@ -51,6 +51,6 @@ $on-laptop:        800px !default;
 ;
 
 .site-footer{
-  background-image: url("tikal.JPG");
+  background-image: url("{{ site.baseurl }}/assets/tikal.JPG");
   background-size: 100% 115%;
 }
