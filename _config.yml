@@ -28,6 +28,8 @@ github_username:  guadabsb15
 markdown: kramdown
 kramdown:
    input : GFM
+sass:
+   sass_dir: _sass
 theme: minima
 plugins:
   - jekyll-feed

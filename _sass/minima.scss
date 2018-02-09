@@ -1,3 +1,4 @@
+
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -51,6 +52,6 @@ $on-laptop:        800px !default;
 ;
 
 .site-footer{
-  background-image: url("{{ site.baseurl }}/assets/tikal.JPG");
+  background-image: url($baseurl +"/assets/tikal.JPG");
   background-size: 100% 115%;
 }
