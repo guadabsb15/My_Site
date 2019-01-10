@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my page!
 
-<img src="{{site.baseurl}}/assets/photo2.jpg" alt="Photo" align="right" style="width: 200px;"/>
+<img src="{{site.baseurl}}/assets/photo2.jpg" alt="Photo" align="right" hspace="20" style="width: 200px;"/>
 
 I am a PhD candidate in the [Physics and Astronomy](http://www.physics.sunysb.edu/Physics/) department at Stony Brook University working with the nuclear astrophysics group. As part of my research, I work on hydrodynamics simulations of white dwarfs merging using the AMR code [Castro](http://amrex-astro.github.io/Castro/). Currently, I am contributing to the efforts of including an MHD solver in Castro. My research interests include algortihms implementations and high performance computing.
 
