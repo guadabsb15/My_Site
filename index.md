@@ -9,7 +9,7 @@ Welcome to my page!
 
 <img src="{{site.baseurl}}/assets/photo2.jpg" alt="Photo" align="right" hspace="20" style="width: 200px;"/>
 
-I am a Research Software Engineer at Rosseland Centre for Solar Physics (RoCS) which is part of the Institute of Theoretical Astrophysics at the University of Oslo.  
+I am a Research Software Engineer at the [Rosseland Centre for Solar Physics](https://www.mn.uio.no/rocs/english/) (RoCS) which is part of the Institute of Theoretical Astrophysics at the University of Oslo.  
 
 During my PhD I was in the [Physics and Astronomy](http://www.physics.sunysb.edu/Physics/) department at Stony Brook University working with the nuclear astrophysics group. As part of my research, I workied on hydrodynamics simulations of white dwarfs merging using the AMR code [Castro](http://amrex-astro.github.io/Castro/). I contributed to the efforts of including an MHD solver in Castro. My research interests include algortihms implementations and high performance computing.
 
