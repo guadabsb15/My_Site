@@ -20,4 +20,4 @@ Other non academic interests include swiming, dancing and learning about differe
 I did my underdraduate studies in Physics at [Universidad del Valle de Guatemala](http://web.uvg.gt/) and earned a [Global UGRAD](https://exchanges.state.gov/non-us/program/global-undergraduate-exchange-program-global-ugrad) scholarship to do my sophomore year abroad at [North Central College](https://www.northcentralcollege.edu/) in Naperville, IL.      
 
 
-Here is my [cv]({{site.baseurl}}/assets/Barrios_CV.pdf) for more information. 
+#Here is my [cv]({{site.baseurl}}/assets/Barrios_CV.pdf) for more information. 
