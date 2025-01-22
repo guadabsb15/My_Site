@@ -9,11 +9,11 @@ Welcome to my page!
 
 <img src="{{site.baseurl}}/assets/photo2.jpg" alt="Photo" align="right" hspace="20" style="width: 200px;"/>
 
-I am a Research Software Engineer at the [Rosseland Centre for Solar Physics](https://www.mn.uio.no/rocs/english/) (RoCS) which is part of the Institute of Theoretical Astrophysics at the University of Oslo.  
+I am a Research Software Engineer (RSE) at the [Juelich Super Computing Centre](https://www.fz-juelich.de/en/ias/jsc) in [Forschungszentrum Juelich](https://www.fz-juelich.de/de). Before that, I was a RSE at the [Rosseland Centre for Solar Physics](https://www.mn.uio.no/rocs/english/) (RoCS) which is part of the Institute of Theoretical Astrophysics at the University of Oslo. My main interests are in computational sciences, algorithms implementations and high performance computing.   
 
-During my PhD I was in the [Physics and Astronomy](http://www.physics.sunysb.edu/Physics/) department at Stony Brook University working with the nuclear astrophysics group. As part of my research, I workied on hydrodynamics simulations of white dwarfs merging using the AMR code [Castro](http://amrex-astro.github.io/Castro/). I contributed to the efforts of including an MHD solver in Castro. My research interests include algortihms implementations and high performance computing.
+During my PhD I was in the [Physics and Astronomy](http://www.physics.sunysb.edu/Physics/) department at Stony Brook University working with the nuclear astrophysics group. As part of my research, I workied on hydrodynamics simulations of white dwarfs merging using the AMR code [Castro](http://amrex-astro.github.io/Castro/). I contributed to the efforts of including an MHD solver in Castro.
 
-I care about adressing inclusion of underrepresented groups in STEM. While at Stony Brook, I collaborated in mentoring undergraduate students, and being part of the graduate women in science and engeneering e-board. Other non academic interests include swiming, dancing and learning about different cultures. 
+Other non academic interests include swiming, dancing and learning about different cultures. 
 
 #### *Previous education*
 
